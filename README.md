@@ -4,7 +4,7 @@ This Project is used to parse the XML file and use the Excel file to translate t
 
 Usage :
 
-Give pip istall xlrd command before running the script.
+Give pip install xlrd command before running the script.
 Create the XML files with names like 1.xml,2.xml, etc
 Run the Script and provide the approriate values like attributes/identites and number of XML files
 to be parsed.
